@@ -1,0 +1,5 @@
+# Streamlit-in öz başına brauzer açmasını söndürür.
+# Terminalda görünən "Local URL: http://localhost:8501" linkinə Ctrl + klik edin —
+# VS Code onu "workbench.externalBrowser" ayarındakı brauzerdə (Chrome) açacaq.
+[server]
+headless = true
